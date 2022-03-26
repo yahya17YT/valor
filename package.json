@@ -1,6 +1,6 @@
 {
     "name": "Valor-Game",
-    "version": "2.22.6.72",
+    "version": "2.22.8.7",
     "description": "Multi-device beta",
     "main": "index.js",
     "type": "module",
