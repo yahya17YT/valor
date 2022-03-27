@@ -19,20 +19,18 @@ Some highlight features:
 
 [GitHub](https://github.com/DineshValor/valor-game) is the only source where you can get official Valor Bot information and downloads.
 
-[![](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor-game/releases/tag/v2.22.8.7)
-[![](https://img.shields.io/badge/Valor_Bot_Termux-v2.22.8.7-blue)](https://github.com/DineshValor/valor-game/releases/tag/v2.22.8.7)
+[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor-game/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip)
 
 ## Useful Links
 - [Installation Instruction](https://)
 - [Frequently Asked Questions](https://)
-- [Release Notes](https://)
-- [Valor-Bot Changelog](https://)
+- [Valor Bot Changelog](https://)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
 ## Bot Test & Bug Reports
 
-[![](https://img.shields.io/badge/Bot_Test-WhatsApp-whatsapp?logo=whatsapp)](wa.me/919971107409)
-[![](https://img.shields.io/badge/Bug_Report-WhatsApp-whatsapp?logo=whatsapp)](wa.me/919107910799)
+[![Bot Test](https://img.shields.io/badge/Bot_Test-WhatsApp-whatsapp?logo=whatsapp)](wa.me/919971107409)
+[![Bug Report](https://img.shields.io/badge/Bug_Report-WhatsApp-whatsapp?logo=whatsapp)](wa.me/919107910799)
 
 ## License
 
