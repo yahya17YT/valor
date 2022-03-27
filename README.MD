@@ -25,7 +25,7 @@ Some highlight features:
 - [Installation Instruction](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/install.md)
 - [Frequently Asked Questions](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/faq.md)
 - [Valor Bot Changelog](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/changes.md)
-- [Release Note](https://github.com/DineshValor/valor-game/tags)
+- [Release Notes](https://github.com/DineshValor/valor-game/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
 ## Bot Test & Bug Reports
