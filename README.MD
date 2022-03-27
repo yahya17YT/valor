@@ -3,7 +3,8 @@
 #### This is not an officially supported WhatsApp product
 
 ## Introduction
-Valor Bot is a suite of open source software for WhatsApp **(Multi-device beta)**, supporting Version higher than WhatsApp  v2.22.8.7.<br>
+Valor Bot is a suite of open source software for WhatsApp **(Multi-device beta)**, last supported WhatsApp version is `2.22.8.7` & may support further.<br>
+
 Some highlight features:
 
 - **Downloader**: Download Audio/Video from YouTube, TikTok, Instagram, Facebook, GitHub
