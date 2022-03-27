@@ -30,8 +30,8 @@ Some highlight features:
 
 ## Bot Test & Bug Reports
 
-[![Bot Test](https://img.shields.io/badge/Bot_Test-WhatsApp-whatsapp?logo=whatsapp)](wa.me/919971107409)
-[![Bug Report](https://img.shields.io/badge/Bug_Report-WhatsApp-whatsapp?logo=whatsapp)](wa.me/919107910799)
+[![Bot Test](https://img.shields.io/badge/Bot_Test-WhatsApp-whatsapp?logo=whatsapp)](https://wa.me/919971107409)
+[![Bug Report](https://img.shields.io/badge/Bug_Report-WhatsApp-whatsapp?logo=whatsapp)](https://wa.me/919107910799)
 
 ## License
 
