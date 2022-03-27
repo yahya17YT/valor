@@ -57,3 +57,8 @@ Some highlight features:
 Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
 
 # Support Project
+
+[![UPI PAY](docs/images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/upi-qrcode.jpg) | [![PayPal](docs/images/paypal.png)](https://www.paypal.me/DineshValor)
+----|----
+[UPI PAY](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
+🇮🇳 Domestic Support | 🌐 International Support
