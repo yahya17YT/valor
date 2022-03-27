@@ -51,9 +51,9 @@ Some highlight features:
 
 ## Thanks To
 
-[![DineshValor](https://github.com/DineshValor.png?size=60)](https://github.com/DineshValor) | [![Nurutomo](https://github.com/Nurutomo.png?size=60)](https://github.com/Nurutomo) | [![BochilGaming](https://github.com/BochilGaming.png?size=60)](https://github.com/BochilGaming) | [![Ftwrr](https://github.com/Ftwrr.png?size=100)](https://github.com/Ftwrr) 
+[![DineshValor](https://github.com/DineshValor.png?size=60)](https://github.com/DineshValor) | [![Nurutomo](https://github.com/Nurutomo.png?size=60)](https://github.com/Nurutomo) | [![BochilGaming](https://github.com/BochilGaming.png?size=60)](https://github.com/BochilGaming) | [![X-Team](docs/images/xlogo.png?size=60)](https://api.xteam.xyz/) 
 ----|----|----|----
-[DineshValor](https://github.com/DineshValor) | [Nurutomo](https://github.com/Nurutomo) | [BochilGaming](https://github.com/BochilGaming) | [Ftwrr](https://github.com/Ftwrr)
+[DineshValor](https://github.com/DineshValor) | [Nurutomo](https://github.com/Nurutomo) | [BochilGaming](https://github.com/BochilGaming) | [X-Team](https://api.xteam.xyz/)
 Valor-Bot Author | Script Writer | Script Editor | 2nd Most Active Contributor
 
 # Support Project
