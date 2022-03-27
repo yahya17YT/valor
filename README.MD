@@ -25,6 +25,7 @@ Some highlight features:
 - [Installation Instruction](https://)
 - [Frequently Asked Questions](https://)
 - [Valor Bot Changelog](https://)
+- [Release Note](https://)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
 ## Bot Test & Bug Reports
