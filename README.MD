@@ -81,4 +81,4 @@ Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
 [![UPI PAY](docs/images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [![PayPal](docs/images/paypal.png)](https://www.paypal.me/DineshValor)
 ----|----
 [UPI PAY](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
-🇮🇳 National Support | 🌐 Global Support
+🇮🇳 Domestic Support | 🌐 Global Support
