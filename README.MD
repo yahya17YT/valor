@@ -21,17 +21,17 @@ Some highlight features:
 
 Stable Version:
 
-[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor-game/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip)
+[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip)
 
 Beta Version:
 
-[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-Beta-blue)](https://github.com/DineshValor/valor-game/archive/refs/heads/md.zip)
+[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-Beta-blue)](https://github.com/DineshValor/valor/archive/refs/heads/bot.zip)
 
 ## Useful Links
-- [Installation Instruction](https://github.com/DineshValor/valor-game/blob/md/docs/install.md)
-- [Frequently Asked Questions](https://github.com/DineshValor/valor-game/blob/md/docs/faq.md)
-- [Full Changelog](https://github.com/DineshValor/valor-game/blob/md/docs/changes.md)
-- [Release Notes](https://github.com/DineshValor/valor-game/tags)
+- [Installation Instruction](https://github.com/DineshValor/valor/blob/bot/docs/install.md)
+- [Frequently Asked Questions](https://github.com/DineshValor/valor-game/blob/bot/docs/faq.md)
+- [Full Changelog](https://github.com/DineshValor/valor/blob/bot/docs/changes.md)
+- [Release Notes](https://github.com/DineshValor/valor/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
 ## WhatsApp Bot
@@ -50,7 +50,7 @@ Beta Version:
 
 ## Screenshots
 
-[![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample4.jpg)
+[![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
 ----|----|----|----
 
 ## License
@@ -78,7 +78,7 @@ Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
 
 ## Support Project
 
-[![UPI PAY](docs/images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/upi-qrcode.jpg) | [![PayPal](docs/images/paypal.png)](https://www.paypal.me/DineshValor)
+[![UPI PAY](docs/images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [![PayPal](docs/images/paypal.png)](https://www.paypal.me/DineshValor)
 ----|----
-[UPI PAY](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
+[UPI PAY](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
 🇮🇳 National Support | 🌐 Global Support
