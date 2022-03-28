@@ -42,6 +42,12 @@ Some highlight features:
 
 [![Bug Report](https://img.shields.io/badge/Bug_Report-WhatsApp-whatsapp?logo=whatsapp)](https://wa.me/919107910799)
 
+## Screenshots
+
+[![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample4.jpg)
+----|----|----|----
+Screenshot-1 | Screenshot-2 | Screenshot-3 | Screenshot-4
+
 ## License
 
     Valor-Bot, including all git submodules are free software:
@@ -70,4 +76,4 @@ Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
 [![UPI PAY](docs/images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/upi-qrcode.jpg) | [![PayPal](docs/images/paypal.png)](https://www.paypal.me/DineshValor)
 ----|----
 [UPI PAY](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
-🇮🇳 Domestic Support | 🌐 International Support
+🇮🇳 National Support | 🌐 Global Support
