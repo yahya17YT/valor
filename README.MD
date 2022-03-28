@@ -22,13 +22,9 @@ Some highlight features:
 
 [GitHub](https://github.com/DineshValor/valor-game) is the only source where you can get official Valor Bot information and downloads.
 
-Stable Version:
-
-[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip)
-
-Beta Version:
-
-[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-Beta-blue)](https://github.com/DineshValor/valor/archive/refs/heads/bot.zip)
+Stable Version | Beta Version
+----|----
+[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip) | [![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-Beta-blue)](https://github.com/DineshValor/valor/archive/refs/heads/bot.zip)
 
 ## Useful Links
 - [Installation Instruction](https://github.com/DineshValor/valor/blob/bot/docs/install.md)
@@ -37,19 +33,10 @@ Beta Version:
 - [Release Notes](https://github.com/DineshValor/valor/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
-## WhatsApp Bot
+## Valor Bot Status
 
-**Bot Test**
-
-[![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-whatsapp?logo=whatsapp)](https://wa.me/919971107409)
-
-**Bug Report**
-
-[![Bug Report](https://img.shields.io/badge/WhatsApp-Bug_Report-whatsapp?logo=whatsapp)](https://wa.me/919107910799)
-
-**Join Group** 
-
-[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join_Group-whatsapp?logo=whatsapp)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8)
+[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join_Group-whatsapp?logo=whatsapp)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8) | [![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-whatsapp?logo=whatsapp)](https://wa.me/919971107409) | [![Bug Report](https://img.shields.io/badge/WhatsApp-Bug_Report-whatsapp?logo=whatsapp)](https://wa.me/919107910799)
+----|----|----
 
 ## Screenshots
 
