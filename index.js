@@ -1,4 +1,4 @@
-console.log('Please Wait...!\nStarting Valor-Game...')
+console.log('Please Wait...!\nStarting Valor Bot...')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('Lightweight\nWhatsApp Bot\nMulti-device beta', {
+say('Valor Bot\nMulti-device beta', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`'${name}' By @${author.name || author}`, {
+say(`by ${author.name}`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']

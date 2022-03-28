@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/919107910799'
-global.author = 'Valor Game'
+global.packname = 'Valor Bot'
+global.author = 'Dinesh_Valor🇮🇳'
 
 global.multiplier = 69 // The higher, The harder levelup
 

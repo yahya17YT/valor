@@ -1,5 +1,5 @@
 {
-    "name": "Valor-Game",
+    "name": "Valor-Bot",
     "version": "2.22.8.7",
     "description": "Multi-device beta",
     "main": "index.js",
@@ -15,31 +15,40 @@
         "test2": "nodemon index.js"
     },
     "keywords": [
-        "termux-whatsapp-bot",
-        "whatsapp-bot",
+        "game",
+        "api",
+        "chat",
+        "bot",
+        "automation",
+        "device",
+        "web",
+        "websocket",
         "whatsapp",
-        "js-whatsapp",
-        "whatsapp",
-        "multi-device",
-        "valor-game",
-        "MD",
-        "baileys-md"
+        "user",
+        "sticker",
+        "termux",
+        "group",
+        "multi",
+        "md",
+        "valor",
+        "baileys",
+        "dineshvalor"
     ],
-    "homepage": "https://github.com/DineshValor/valor-game",
+    "homepage": "https://github.com/DineshValor/valor",
     "author": {
-        "name": "DineshValor"
+        "name": "Dinesh_Valor"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DineshValor/valor-game.git"
+        "url": "git+https://github.com/DineshValor/valor.git"
     },
     "bugs": {
-        "url": "https://github.com/DineshValor/valor-game/issues"
+        "url": "https://github.com/DineshValor/valor/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "4.0.1",
-        "@bochilteam/scraper": "2.0.0",
+        "@adiwajshing/baileys": "",
+        "@bochilteam/scraper": "",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
         "cfonts": "^2.10.0",
