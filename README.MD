@@ -1,5 +1,6 @@
 [![](docs/images/logo.png)](https://github.com/DineshValor/valor)
-
+[![Repo Status](https://img.shields.io/badge/Repo_Status-Maintained-Green?logo=right)]()
+[![Maintainer](https://img.shields.io/badge/Maintainer-Dinesh_Valor🇮🇳-blue?logo=right)]()
 [![Valor Bot Installation Tutorial](https://img.shields.io/badge/YouTube-Installation_Tutorial_(upload_soon)-red?logo=youtube&logoColor=red)]()
 
 #### This is not an officially supported WhatsApp product
