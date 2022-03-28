@@ -1,5 +1,7 @@
 [![](docs/images/logo.png)](https://github.com/DineshValor/valor)
 
+[![Valor Bot Installation Tutorial](https://img.shields.io/badge/YouTube-Installation_Tutorial_(upload_soon)-red?logo=youtube&logoColor=red)]()
+
 #### This is not an officially supported WhatsApp product
 
 ## Introduction
