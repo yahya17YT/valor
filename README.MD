@@ -28,7 +28,7 @@ Some highlight features:
 - [Release Notes](https://github.com/DineshValor/valor-game/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
-## Bot
+## WhatsApp Bot
 
 **Join** 
 
