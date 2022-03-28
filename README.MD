@@ -22,8 +22,8 @@ Some highlight features:
 [![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor-game/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip)
 
 ## Useful Links
-- [Installation Instruction](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/install.md)
-- [Frequently Asked Questions](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/faq.md)
+- [Installation Instruction](https://github.com/DineshValor/valor-game/blob/md/docs/install.md)
+- [Frequently Asked Questions](https://github.com/DineshValor/valor-game/blob/md/docs/faq.md)
 - [Valor Bot Changelog](https://github.com/DineshValor/valor-game/blob/md/docs/changes.md)
 - [Release Notes](https://github.com/DineshValor/valor-game/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
