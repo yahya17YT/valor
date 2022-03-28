@@ -28,9 +28,18 @@ Some highlight features:
 - [Release Notes](https://github.com/DineshValor/valor-game/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
-## Bot Test & Bug Reports
+## Bot
+
+**Join** 
+
+[![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp_Group-whatsapp?logo=whatsapp)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8)
+
+**Bot Test**
 
 [![Bot Test](https://img.shields.io/badge/Bot_Test-WhatsApp-whatsapp?logo=whatsapp)](https://wa.me/919971107409)
+
+**Bug Report**
+
 [![Bug Report](https://img.shields.io/badge/Bug_Report-WhatsApp-whatsapp?logo=whatsapp)](https://wa.me/919107910799)
 
 ## License
@@ -56,7 +65,7 @@ Some highlight features:
 [DineshValor](https://github.com/DineshValor) | [Nurutomo](https://github.com/Nurutomo) | [BochilGaming](https://github.com/BochilGaming) | [X-Team](https://api.xteam.xyz/)
 Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
 
-# Support Project
+## Support Project
 
 [![UPI PAY](docs/images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/upi-qrcode.jpg) | [![PayPal](docs/images/paypal.png)](https://www.paypal.me/DineshValor)
 ----|----
