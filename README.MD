@@ -1,5 +1,5 @@
 [![](docs/images/logo.png)](https://github.com/DineshValor/valor)
-[![Repo Status](https://img.shields.io/badge/Repo_Status-Maintained-Green?logo=right)]() | [![Maintainer](https://img.shields.io/badge/Maintainer-Dinesh_Valor🇮🇳-blue?logo=right)]()
+[![Bot Status](https://img.shields.io/badge/Bot_Status-Maintained-Green?logo=right)]() | [![Maintainer](https://img.shields.io/badge/Maintainer-Dinesh_Valor🇮🇳-blue?logo=right)]()
 ----|----
 
 #### This is not an officially supported WhatsApp product
@@ -32,12 +32,15 @@ Stable Version | Beta Version
 - [Release Notes](https://github.com/DineshValor/valor/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
-## Valor Bot Status
+## Valor WhatsApp Bot
 
-[![Join WhatsApp Group](https://img.shields.io/badge/Join_Group-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8) | [![Bot Test](https://img.shields.io/badge/Bot_Test-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919971107409) | [![Bug Report](https://img.shields.io/badge/Bug_Report-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919107910799)
-----|----|----
+Test bot and report Bug and discuss to implement new features in bot.
+
+[![Join WhatsApp Group](https://img.shields.io/badge/Join_Group-whatsapp?logo=whatsapp&color=grey)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8) [![Bot Test](https://img.shields.io/badge/Bot_Test-whatsapp?logo=whatsapp&color=grey)](https://wa.me/919971107409) [![Bug Report](https://img.shields.io/badge/Bug_Report-whatsapp?logo=whatsapp&color=grey)](https://wa.me/919107910799)
 
 ## Screenshots
+
+Here are some sample of a Valor Bot.
 
 [![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
 ----|----|----|----
