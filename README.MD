@@ -1,4 +1,4 @@
-![](docs/images/logo.png)
+[![](docs/images/logo.png)](https://github.com/DineshValor/valor)
 
 #### This is not an officially supported WhatsApp product
 
