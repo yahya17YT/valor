@@ -19,7 +19,13 @@ Some highlight features:
 
 [GitHub](https://github.com/DineshValor/valor-game) is the only source where you can get official Valor Bot information and downloads.
 
+Stable Version:
+
 [![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor-game/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip)
+
+Beta Version:
+
+[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-Beta-blue)](https://github.com/DineshValor/valor-game/archive/refs/heads/md.zip)
 
 ## Useful Links
 - [Installation Instruction](https://github.com/DineshValor/valor-game/blob/md/docs/install.md)
