@@ -46,7 +46,6 @@ Some highlight features:
 
 [![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor-game/md/docs/images/sample4.jpg)
 ----|----|----|----
-Screenshot-1 | Screenshot-2 | Screenshot-3 | Screenshot-4
 
 ## License
 
