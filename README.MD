@@ -30,10 +30,6 @@ Some highlight features:
 
 ## WhatsApp Bot
 
-**Join** 
-
-[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join_Group-whatsapp?logo=whatsapp)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8)
-
 **Bot Test**
 
 [![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-whatsapp?logo=whatsapp)](https://wa.me/919971107409)
@@ -41,6 +37,10 @@ Some highlight features:
 **Bug Report**
 
 [![Bug Report](https://img.shields.io/badge/WhatsApp-Bug_Report-whatsapp?logo=whatsapp)](https://wa.me/919107910799)
+
+**Join Group** 
+
+[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join_Group-whatsapp?logo=whatsapp)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8)
 
 ## Screenshots
 
