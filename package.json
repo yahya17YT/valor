@@ -38,8 +38,8 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "",
-        "@bochilteam/scraper": "",
+        "@adiwajshing/baileys": "4.0.1",
+        "@bochilteam/scraper": "2.0.0",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
         "cfonts": "^2.10.0",
