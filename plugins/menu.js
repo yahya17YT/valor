@@ -133,7 +133,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 
 ${wish()}, ${name}
 
-*⇓⇓ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛᴇᴅ ʙᴇʟᴏᴡ ⇓⇓*`, text.trim(), `${timeimg()}`, [
+*⇓ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛᴇᴅ ʙᴇʟᴏᴡ ⇓*`, text.trim(), `${timeimg()}`, [
       [`ʙᴏᴛ ɪɴғᴏ`, `${usedPrefix}info`],
       [`ᴩʀᴏғɪʟᴇ`, `${usedPrefix}profile`]
     ], m, {asLocation: true})

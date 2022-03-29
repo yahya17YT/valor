@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 conn.sendHydrated(m.chat, 
 `*––––––『 DONATE 』––––––*`, 
 `🇮🇳 ᴅᴏᴍᴇsᴛɪᴄ ᴩᴀʏ :
-⮕ ₹ ᴜᴩɪ – 9107910799
+⮕ ₹ ᴜᴩɪ – dineshvalor@apl
 ★ sᴄᴀɴ ǫʀ ᴄᴏᴅᴇ ﹠ ᴅᴏɴᴀᴛᴇ ᴠɪᴀ
 ᴩᴀʏᴛᴍ, ᴀᴍᴀᴢᴏɴ ᴩᴀʏ , ʙʜɪᴍ, ғʀᴇᴇᴄʜᴀʀɢᴇ, ɢᴩᴀʏ ﹙ɢᴏᴏɢʟᴇ-ᴩᴀʏ﹚, ᴍᴏʙɪᴋᴡɪᴋ, ᴍʏᴊɪᴏ, ᴩʜᴏɴᴇᴩᴇ, ᴇᴛᴄ.
 
