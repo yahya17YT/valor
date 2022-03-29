@@ -31,7 +31,7 @@ Some highlight features:
 
 ## Join, Test, Report
 
-Test bot, report Bug and discuss about issue/new features to implement in bot.
+Test bot, report Bug and discuss about new issue/features to implement in bot.
 
 [![Join WhatsApp Group](https://img.shields.io/badge/Join_Group-whatsapp?logo=whatsapp&color=grey)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8) [![Bot Test](https://img.shields.io/badge/Bot_Test-whatsapp?logo=whatsapp&color=grey)](https://wa.me/919971107409) [![Bug Report](https://img.shields.io/badge/Bug_Report-whatsapp?logo=whatsapp&color=grey)](https://wa.me/919107910799)
 
