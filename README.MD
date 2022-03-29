@@ -5,7 +5,7 @@
 #### This is not an officially supported WhatsApp product
 
 ## Introduction
-Valor Bot is a suite of open source software for WhatsApp **(Multi-device beta)**, last supported WhatsApp version is `2.22.8.7` & may support further.<br>
+Valor Bot is a suite of open source software for WhatsApp (Multi-device beta), last supported WhatsApp version is `2.22.8.7` & may support further.<br>
 
 Some highlight features:
 
@@ -17,33 +17,21 @@ Some highlight features:
 - **AFK**: Away From Keyboard
 - **Broadcast**: Broadcast message to all Groups & everyone
 
-## Downloads
+**Screenshots**
 
-[GitHub](https://github.com/DineshValor/valor-game) is the only source where you can get official Valor Bot information and downloads.
-
-Stable Version | Beta Version
-----|----
-[![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip) | [![Download Valor Bot](https://img.shields.io/badge/Valor_Bot-Beta-blue)](https://github.com/DineshValor/valor/archive/refs/heads/bot.zip)
+[![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
+----|----|----|----
 
 ## Useful Links
 - [Installation Instruction](https://github.com/DineshValor/valor/blob/bot/docs/install.md)
 - [Frequently Asked Questions](https://github.com/DineshValor/valor-game/blob/bot/docs/faq.md)
-- [Full Changelog](https://github.com/DineshValor/valor/blob/bot/docs/changes.md)
-- [Release Notes](https://github.com/DineshValor/valor/tags)
 - [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
-## Valor WhatsApp Bot
+## Join, Test, Report
 
-Test bot and report Bug and discuss to implement new features in bot.
+Test bot, report Bug and discuss about issue/new features to implement in bot.
 
 [![Join WhatsApp Group](https://img.shields.io/badge/Join_Group-whatsapp?logo=whatsapp&color=grey)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8) [![Bot Test](https://img.shields.io/badge/Bot_Test-whatsapp?logo=whatsapp&color=grey)](https://wa.me/919971107409) [![Bug Report](https://img.shields.io/badge/Bug_Report-whatsapp?logo=whatsapp&color=grey)](https://wa.me/919107910799)
-
-## Screenshots
-
-Here are some sample of a Valor Bot.
-
-[![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
-----|----|----|----
 
 ## License
 
