@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-### Q: How To Customise Message Display?
+### Q: How to Customise Message Display?
 ```js
 // Syntax
 conn.sendButton(
@@ -24,7 +24,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 )
 ```
 
-### How to contribute?
+### Want to Contribute?
 1. Fork this repository
 2. Change/edit/create what you want. for example you can add features, fix bug, etc
 3. Test before making a pull req!!
