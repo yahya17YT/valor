@@ -19,7 +19,7 @@ Some highlight features:
 
 **Screenshots**
 
-[![Sample-1](docs/images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](docs/images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](docs/images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](docs/images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
+[![Sample-1](images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
 ----|----|----|----
 
 ## Useful Links
@@ -51,14 +51,14 @@ Test bot, report Bug and discuss about issue/new features to implement in bot.
 
 ## Thanks To
 
-[![DineshValor](https://github.com/DineshValor.png)](https://github.com/DineshValor) | [![Nurutomo](https://github.com/Nurutomo.png)](https://github.com/Nurutomo) | [![BochilGaming](https://github.com/BochilGaming.png)](https://github.com/BochilGaming) | [![X-Team](docs/images/xlogo.png)](https://api.xteam.xyz/) 
+[![DineshValor](https://github.com/DineshValor.png)](https://github.com/DineshValor) | [![Nurutomo](https://github.com/Nurutomo.png)](https://github.com/Nurutomo) | [![BochilGaming](https://github.com/BochilGaming.png)](https://github.com/BochilGaming) | [![X-Team](images/xlogo.png)](https://api.xteam.xyz/) 
 ----|----|----|----
 [DineshValor](https://github.com/DineshValor) | [Nurutomo](https://github.com/Nurutomo) | [BochilGaming](https://github.com/BochilGaming) | [X-Team](https://api.xteam.xyz/)
 Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
 
 ## Support Project
 
-[![UPI PAY](docs/images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [![PayPal](docs/images/paypal.png)](https://www.paypal.me/DineshValor)
+[![UPI PAY](images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [![PayPal](images/paypal.png)](https://www.paypal.me/DineshValor)
 ----|----
 [UPI PAY](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
 🇮🇳 Domestic Support | 🌐 Global Support
