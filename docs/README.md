@@ -2,7 +2,7 @@
 <br>
 <br>
 [![Valor Bot Status](https://img.shields.io/badge/Bot_Status-Maintained-Green?logo=statuspal&logoColor=green)](https://github.com/DineshValor/valor)
-[![DineshValor](https://img.shields.io/badge/Maintainer-Dinesh_Valor🇮🇳-blue?logo=powershell)](https://github.com/DineshValor)
+[![DineshValor](https://img.shields.io/badge/Maintainer-Dinesh_Valor-blue?logo=powershell)](https://github.com/DineshValor)
 
 #### This is not an officially supported WhatsApp product
 
@@ -21,7 +21,7 @@ Some highlight features:
 
 **Screenshots**:
 
-[![Sample-1](images/sample1.jpg?size=10)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](images/sample2.jpg?size=10)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](images/sample3.jpg?size=10)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](images/sample4.jpg?size=10)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
+[![Sample-1](images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg)
 ----|----|----|----
 
 ## Useful Links
