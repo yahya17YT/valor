@@ -1,6 +1,9 @@
-[![](docs/images/logo.png)](https://github.com/DineshValor/valor)
-[![Bot Status](https://img.shields.io/badge/Bot_Status-Maintained-Green?logo=right)]() | [![Maintainer](https://img.shields.io/badge/Maintainer-Dinesh_Valor🇮🇳-blue?logo=right)]()
-----|----
+[![](images/logo.png)](https://github.com/DineshValor/valor)
+<br>
+<br>
+<br>
+[![Bot Status](https://img.shields.io/badge/Bot_Status-Maintained-Green?logo=right)]()
+[![Maintainer](https://img.shields.io/badge/Maintainer-Dinesh_Valor🇮🇳-blue?logo=right)]()
 
 #### This is not an officially supported WhatsApp product
 
