@@ -1,4 +1,3 @@
-
 # Valor Bot Changelog
 
 ### v2.22.8.7
