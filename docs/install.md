@@ -51,3 +51,7 @@ This allows for easier installation and Heroku is a server based, that's mean bo
 ## Termux
 
 [![Heroku Tutorial Video](https://img.shields.io/badge/Termux-Tutorial_Video_(upload_soon)-red?logo=powershell)]()
+
+**To Install:**
+
+1. 
