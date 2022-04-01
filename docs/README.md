@@ -44,7 +44,7 @@ Test bot, report Bug and discuss about new issue/features to implement in bot.
 
 [![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join_Group-darkgreen?logo=whatsapp)](https://chat.whatsapp.com/J16Ay8zo6zk1hc8SQ6Pqv8)
 [![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-darkgreen?logo=whatsapp)](https://wa.me/919971107409)
-[![Bug Report](https://img.shields.io/badge/WhatsApp-Bug_Report-darkgreen?logo=whatsapp)](https://wa.me/919107910799)
+[![Bug Report](https://img.shields.io/badge/GitHub-Bug_Report-darkgreen?logo=github)](https://github.com/DineshValor/valor/issues)
 
 ## License
 
