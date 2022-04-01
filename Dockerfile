@@ -10,6 +10,8 @@ RUN apt-get update && \
 
 COPY package.json .
 
+ENV TZ=Asia/Kolkata
+
 RUN npm install && npm install qrcode-terminal
 
 COPY . .
