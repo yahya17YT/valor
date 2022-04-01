@@ -24,9 +24,9 @@ let tags = {
 }
 const defaultMenu = {
   before: `%readmore`.trimStart(),
-  header: '╭─ *〘 %category 〙*',
+  header: '╭─ *〘 %category 〙*\n│',
     body: '├ %cmd %islimit %isPremium',
-  footer: '╰────˧\n',
+  footer: '│\n╰────˧\n',
   after: `  ${'```✨ʜᴏᴩᴇ ʏᴏᴜ ᴇɴᴊᴏʏɪɴɢ ᴛʜᴇ ʙᴏᴛ✨```'}`,
 }
 let handler = async (m, { conn, usedPrefix, __dirname }) => {
@@ -144,7 +144,7 @@ ${wish()}, ${name}
 }
 handler.help = ['menu | help | valor']
 handler.tags = ['main']
-handler.command = /^(menu|help|valor)$/i
+handler.command = /^(menu|help|valor|commands)$/i
 
 handler.exp = 3
 
