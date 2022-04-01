@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+theme: "jekyll-theme-cayman"
+title: "Valor Bot"
+description: "The Valor Bot For WhatsApp"
