@@ -68,5 +68,3 @@ conn.sendButton(m.chat, 'Hello World!', '@Valor_Bot', 'https://github.com/Dinesh
 ['Bye', 'bye']
 ], m)
 ```
-
-### Q:
