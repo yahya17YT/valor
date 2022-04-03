@@ -34,9 +34,9 @@ sample-1 | sample-2 | sample-3 | sample-4
 [![Valor Bot Beta Version](https://img.shields.io/badge/Valor_Bot-Beta-red)](https://github.com/DineshValor/valor/archive/refs/heads/bot.zip)
 
 ## Useful Links
-- [Installation Instruction](https://github.com/DineshValor/valor/blob/bot/docs/install.md)
-- [Frequently Asked Questions](https://github.com/DineshValor/valor-game/blob/bot/docs/faq.md)
-- [Troubleshoot](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
+- [Installation Instruction](https://dineshvalor.github.io/valor/install)
+- [Frequently Asked Questions](https://dineshvalor.github.io/valor/faq)
+- [Troubleshoot](https://dineshvalor.github.io/puppeteer/troubleshooting)
 
 ## Join, Test, Report
 
