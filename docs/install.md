@@ -2,7 +2,7 @@
 
 If you have previously scanned QR code and already have `session.json` or `session.data.json` file, it is strongly recommended to rename 'session.json' to 'session.data.json' and copy it into Valor Bot folder/repository.
 
-## Before you start: (necessary)
+## Before you start: **_(necessary)_**
 
 - Edit owner number `'919971107409'` and replace with own number in `config.js` file
 ```
@@ -17,7 +17,7 @@ global.APIKeys = { // APIKey Here
 ```
 > (You can also edit and make changes, such as  package name, author name, etc in `config.js` file)
 
-## **There are three ways to install:**
+## There are three ways to install:
 - Heroku (Server)
 - Termux (Android 7 or higher)
 - CMD (Windows 7 or higher)
@@ -102,7 +102,9 @@ node .
 2. Hurray! Bot successfully installed and ready to use. Type `.menu` or `.help` in whatsapp chat to access bot menu
 > ⚠️ If any error comes, feel free raise an [Issue](https://github.com/DineshValor/valor/issues)
 
-## Optional Commands `node . [--options]`
+## Optional Commands
+
+**Usage: `node . [--options]`**
 
 #### `--autocleartmp`
 Dispose automatically **_tmp folder_** contain files
@@ -165,3 +167,27 @@ conn.logger.level = 'trace'
 ```js
 conn.logger.level = 'debug'
 ```
+
+**Usage: `node . [--options]`**
+
+> Heroku user: Targeted file is `procfile`
+
+| Commands              | Description                                                           | Example
+|:----------------------|-----------------------------------------------------------------------|---------
+| --autocleartmp        | Dispose automatically tmp folder contain files                        |
+| --autoread            | If enabled, all incoming messages will be marked as read              |
+| --session [file-name] | Use another session with another name, default is `session.data.json` | node . --session session.json 
+| --self                | Run bot only for yourself                                             | 
+| --prefix [prefixes]   | prefixes are seperated by each character Set prefix                   | node . --prefix ! 
+| --db [server-url]     | Use external db instead of local db                                   | node . --db 'mongodb+srv://<username>:<pin>@valor-whatsapp-bot-md.vn0pr.mongodb.net/<path>?retryWrites=true&w=majority' 
+| --restrict            | Enables restricted plugins <br> Group Administration `add`, `kick`    | 
+| --nyimak              | No bot, just print received messages and add users to database        | 
+| --server              | Used for [Heroku](https://heroku.com/) or scan through website        | 
+| --pconly              | If that chat not from private bot, bot will ignore                    | 
+| --gconly              | If that chat not from group, bot will ignore                          | 
+| --swonly              | If that chat not from status, bot will ignore                         | 
+| --big-qr              | If small qr unicode doesn't support                                   | 
+| --img                 | Enable image inspector through terminal                               | 
+| --test                | Development Testing Mode                                              | 
+| --trace               | conn.logger.level = 'trace'                                           | 
+| --debug               | conn.logger.level = 'debug'                                           | 
