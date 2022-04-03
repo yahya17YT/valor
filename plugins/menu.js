@@ -142,7 +142,7 @@ ${wish()}, ${name}
     throw e
   }
 }
-handler.help = ['menu | help | valor']
+handler.help = ['menu | help | commands | valor']
 handler.tags = ['main']
 handler.command = /^(menu|help|valor|commands)$/i
 
