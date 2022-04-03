@@ -96,7 +96,7 @@ let handler = async (m, { command, args, usedPrefix }) => {
     let listCrate = Object.fromEntries(Object.entries(rewards).filter(([v]) => v && v in user))
     let info = `🧑🏻‍🏫 ᴜsᴇʀ: *${conn.getName(m.sender)}*
 
-🔖 ᴛʀᴀɴsғᴇʀᴀʙʟᴇ ʟɪsᴛ :
+🔖 ᴄʀᴀᴛᴇ ʟɪsᴛ :
 ${Object.keys(tfinventory.tfcrates).map(v => user[v] && `⮕ ${global.rpg.emoticon(v)} ${v}: ${user[v]}`).filter(v => v).join('\n')}
 –––––––––––––––––––––––––
 💁🏻‍♂ ᴛɪᴩ :
