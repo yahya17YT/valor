@@ -174,20 +174,20 @@ conn.logger.level = 'debug'
 
 | Commands              | Description                                                           | Example
 |:----------------------|-----------------------------------------------------------------------|---------
-| --autocleartmp        | Dispose automatically tmp folder contain files                        |
-| --autoread            | If enabled, all incoming messages will be marked as read              |
+| --autocleartmp        | Dispose automatically tmp folder contain files                        | node . --autocleartmp
+| --autoread            | If enabled, all incoming messages will be marked as read              | node . --autoread
 | --session [file-name] | Use another session with another name, default is `session.data.json` | node . --session session.json 
-| --self                | Run bot only for yourself                                             | 
+| --self                | Run bot only for yourself                                             | node . --self
 | --prefix [prefixes]   | prefixes are seperated by each character Set prefix                   | node . --prefix ! 
 | --db [server-url]     | Use external db instead of local db                                   | node . --db 'mongodb+srv://<username>:<pin>@valor-whatsapp-bot-md.vn0pr.mongodb.net/<path>?retryWrites=true&w=majority' 
-| --restrict            | Enables restricted plugins <br> Group Administration `add`, `kick`    | 
-| --nyimak              | No bot, just print received messages and add users to database        | 
-| --server              | Used for [Heroku](https://heroku.com/) or scan through website        | 
-| --pconly              | If that chat not from private bot, bot will ignore                    | 
-| --gconly              | If that chat not from group, bot will ignore                          | 
-| --swonly              | If that chat not from status, bot will ignore                         | 
-| --big-qr              | If small qr unicode doesn't support                                   | 
-| --img                 | Enable image inspector through terminal                               | 
-| --test                | Development Testing Mode                                              | 
-| --trace               | conn.logger.level = 'trace'                                           | 
-| --debug               | conn.logger.level = 'debug'                                           | 
+| --restrict            | Enables restricted plugins <br> Group Administration `add`, `kick`    | node . --restrict
+| --nyimak              | No bot, just print received messages and add users to database        | node . --nyimak
+| --server              | Used for [Heroku](https://heroku.com/) or scan through website        | node . --server
+| --pconly              | If that chat not from private bot, bot will ignore                    | node . --pconly
+| --gconly              | If that chat not from group, bot will ignore                          | node . --gconly
+| --swonly              | If that chat not from status, bot will ignore                         | node . --swonly
+| --big-qr              | If small qr unicode doesn't support                                   | node . --big-qr
+| --img                 | Enable image inspector through terminal                               | node . --img
+| --test                | Development Testing Mode                                              | node . --test
+| --trace               | conn.logger.level = 'trace'                                           | node . --trace
+| --debug               | conn.logger.level = 'debug'                                           | node . --debug
