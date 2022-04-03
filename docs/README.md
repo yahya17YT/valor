@@ -75,5 +75,3 @@ Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
 ----|----
 [UPI PAY](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
 🇮🇳 Domestic Support | 🌐 Global Support
-
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
