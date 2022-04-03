@@ -70,14 +70,14 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⮕ ${chats.length} - Total Chats
 
 📊 ɴᴏᴅᴇᴊs ᴍᴇᴍᴏʀʏ ᴜsᴀɢᴇ :
-${'' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + ''}`, './media/botinfo.jpg', 'https://github.com/DineshValor/valor-game', 'GɪᴛHᴜʙ', null, null, [
+${'' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + ''}`, './media/botinfo.jpg', 'https://dineshvalor.github.io/valor', 'ʙᴏᴛ sᴄʀɪᴩᴛ', null, null, [
 [`ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
 [`ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: true})
 }
-handler.help = ['info | botinfo']
+handler.help = ['info | botinfo | about']
 handler.tags = ['info']
-handler.command = /^(info|botinfo)$/i
+handler.command = /^(info|botinfo|about)$/i
 
 export default handler
 
