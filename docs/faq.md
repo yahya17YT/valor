@@ -4,6 +4,7 @@
 
 **Text, Image, Buttons**
 ```js
+// Syntax
 conn.sendButton(
       jid, // jid of the user to send the message to
       text, // text to send
@@ -15,7 +16,7 @@ conn.sendButton(
 )
 ```
 ```js
-Code Format
+// Code Format
 conn.sendButton(jid, '<text>', '<footer>', '<buffer>',
 [
 ['<BUTTON-1>', 'button-1'],
@@ -26,7 +27,7 @@ conn.sendButton(jid, '<text>', '<footer>', '<buffer>',
 )
 ```
 ```js
-Example With Location Image
+// Example With Location Image
 conn.sendButton(m.chat, 'Hello World!', 'By Valor_Bot', 'valor.jpg',
 [
 ['Hello', 'hello'],
@@ -37,6 +38,7 @@ conn.sendButton(m.chat, 'Hello World!', 'By Valor_Bot', 'valor.jpg',
 
 **Text, Image, URL, Call, Buttons**
 ```js
+// Syntax
 conn.sendButton(
       jid, // jid of the user to send the message to
       text, // text to send
@@ -52,7 +54,7 @@ conn.sendButton(
 )
 ```
 ```js
-Code Format
+// Code Format
 conn.sendHydrated(m.chat, '<header>', '<footer>', '<buffer>', '<url-link>', '<url-name>', '<contact-number>', '<contact-name>',
 [
 ['<BUTTON-1>', 'button-1'],
@@ -61,7 +63,7 @@ conn.sendHydrated(m.chat, '<header>', '<footer>', '<buffer>', '<url-link>', '<ur
 ], <options>)
 ```
 ```js
-Example
+// Example
 conn.sendButton(m.chat, 'Hello World!', '@Valor_Bot', 'https://github.com/DineshValor/',
 [
 ['Hello', 'hello'],
