@@ -75,9 +75,9 @@ ${'' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(
 [`ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: true})
 }
-handler.help = ['info | botinfo | about']
+handler.help = ['info | botinfo']
 handler.tags = ['info']
-handler.command = /^(info|botinfo|about)$/i
+handler.command = /^(info|botinfo)$/i
 
 export default handler
 
