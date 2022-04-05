@@ -104,7 +104,7 @@ if (!opts['test']) {
       clearTmp()
 
     } catch (e) { console.error(e) }
-  }, 60 * 1000)
+  }, 30 * 1000)
 }
 if (opts['server']) (await import('./server.js')).default(global.conn, PORT)
 
@@ -115,7 +115,7 @@ function clearTmp() {
   tmp.forEach(dirname => readdirSync(dirname).forEach(file => filename.push(join(dirname, file))))
   return filename.map(file => {
     const stats = statSync(file)
-    if (stats.isFile() && (Date.now() - stats.mtimeMs >= 1000 * 30)) return unlinkSync(file) // 30 seconds
+    if (stats.isFile() && (Date.now() - stats.mtimeMs >= 1000 * 60 * 1)) return unlinkSync(file) // 1 minute
     return false
   })
 }
