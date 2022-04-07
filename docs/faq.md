@@ -63,7 +63,7 @@ conn.sendHydrated(m.chat, '<header>', '<footer>', '<buffer>', '<url-link>', '<ur
 ```
 ```js
 // Example
-conn.sendButton(m.chat, 'Hello World!', '@Valor_Bot', 'https://github.com/DineshValor/',
+conn.sendButton(m.chat, 'Hello World!', '@Valor_Bot', 'https://telegra.ph/file/4769b73f3ffdea767d719.jpg', 'https://github.com/DineshValor/', 'GitHub', '+919971107409', 'Call',
 [
 ['Hello', 'hello'],
 ['Bye', 'bye']
