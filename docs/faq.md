@@ -22,8 +22,7 @@ conn.sendButton(jid, '<text>', '<footer>', '<buffer>',
 ['<BUTTON-1>', 'button-1'],
 ['<BUTTON-2>', '<button-2>'],
 ['<BUTTON-3>', '<button-3>']
-],
-<options>
+], <options>
 )
 ```
 ```js
