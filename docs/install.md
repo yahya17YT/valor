@@ -119,9 +119,9 @@ node .
 | `--restrict`            | Enables restricted plugins <br> Group Administration `add`, `kick`    | `node . --restrict`
 | `--nyimak`              | No bot, just print received messages and add users to database        | `node . --nyimak`
 | `--server`              | Used for [Heroku](https://heroku.com/) or scan through website        | `node . --server`
-| `--pconly`              | If that chat not from private bot, bot will ignore                    | `node . --pconly`
-| `--gconly`              | If that chat not from group, bot will ignore                          | `node . --gconly`
-| `--swonly`              | If that chat not from status, bot will ignore                         | `node . --swonly`
+| `--pconly`              | Bot run only in private chat                                          | `node . --pconly`
+| `--gconly`              | Bot run only in group chat                                            | `node . --gconly`
+| `--swonly`              | If chat not from status, bot will ignore                              | `node . --swonly`
 | `--big-qr`              | If small qr unicode doesn't support                                   | `node . --big-qr`
 | `--img`                 | Enable image inspector through terminal                               | `node . --img`
 | `--test`                | Development Testing Mode                                              | `node . --test`
