@@ -39,7 +39,7 @@ conn.sendButton(m.chat, 'Hello World!', 'By Valor_Bot', 'valor.jpg',
 **Text, Image, URL, Call, Buttons**
 ```js
 // Syntax
-conn.sendButton(
+conn.sendHydrated(
       jid, // jid of the user to send the message to
       text, // text to send
       foooter, // footer to send
