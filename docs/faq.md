@@ -69,3 +69,21 @@ conn.sendButton(m.chat, 'Hello World!', '@Valor_Bot', 'https://telegra.ph/file/4
 ['Bye', 'bye']
 ], m)
 ```
+Tip: Want to use `conn.sendHydrated` without url/call button, just replace with `null`.
+```js
+// Code Format
+conn.sendHydrated(m.chat, '<header>', '<footer>', '<buffer>', null, null, null, null,
+[
+['<BUTTON-1>', 'button-1'],
+['<BUTTON-2>', '<button-2>'],
+['<BUTTON-3>', '<button-3>']
+], <options>)
+```
+```js
+// Example
+conn.sendButton(m.chat, 'Hello World!', '@Valor_Bot', 'https://telegra.ph/file/4769b73f3ffdea767d719.jpg', null, null, null, null,
+[
+['Hello', 'hello'],
+['Bye', 'bye']
+], m)
+```
