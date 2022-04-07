@@ -44,7 +44,7 @@ This allows for easier installation and Heroku is a server based, that's mean bo
 7. Go to app `Deploy`, `Connect to GitHub`, click on `Search`, connect to `.../valor` repository, `Enable Automatic Deploys` and click on `Deploy Branch`
 8. Go to app `Resources`, turn ON `worker node .` under `Free Dynos`
 9. Click on `More` (top right corner) and click on `View logs`
-10. Scan QR code via WhatsApp > Linked devices _[skip if you already copied `session.data.json` file into repository]_
+10. Scan QR code via WhatsApp [skip if you already copied `session.data.json` file into repository]
 > (Step 10 is necessary to activate bot on your whatsapp, and currently bot only support Multi-device beta)
 11. Hurray! Bot successfully installed and ready to use. Type `.menu` or `.help` in whatsapp chat to access bot menu
 > ⚠️ If any error comes, feel free raise an [Issue](https://github.com/DineshValor/valor/issues)
@@ -71,7 +71,7 @@ $ cd valor
 $ yarn
 $ node .
 ```
-3. Scan QR code via WhatsApp > Linked devices _[skip if you already copied `session.data.json` file into repository]_
+3. Scan QR code via WhatsApp [skip if you already copied `session.data.json` file into repository]
 4. Hurray! Bot successfully installed and ready to use. Type `.menu` or `.help` in whatsapp chat to access bot menu
 >⚠️ If any error comes, feel free raise an [Issue](https://github.com/DineshValor/valor/issues)
 
