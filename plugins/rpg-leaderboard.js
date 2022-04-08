@@ -31,7 +31,7 @@ let handler = async (m, { conn, args, participants, usedPrefix, command }) => {
 ${leaderboard.map(v => `
 ⮕ ${rpg.emoticon(v)} - ${v}
 `.trim()).join('\n')}
-––––––––––––––––––––––––––
+––––––––––––––––––––––––
 💁🏻‍♂ ᴛɪᴩ :
 ⮕ ᴛᴏ ᴠɪᴇᴡ ᴅɪғғᴇʀᴇɴᴛ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ:
 ${usedPrefix}${command} [type]
@@ -55,7 +55,7 @@ ${sortedItem.slice(page * 0, page * 5 + 5).map((user, i) => `${i + 1}.*﹙${user
 `.trim()
   return conn.sendButton(m.chat, `*–『 GLOBAL LEADERBOARD 』–*`, text, './media/gblb.jpg', [
 [`ᴛᴏᴩ 50`, `${usedPrefix}lb ${type} 9`],
-[`ᴀʟʟ`, `${usedPrefix}lb ${type} 9999`]
+[`ᴛᴏᴩ 100`, `${usedPrefix}lb ${type} 19`]
 ], m, {
     mentions: [...userItem.slice(page * 0, page * 5 + 5)].filter(v => !participants.some(p => areJidsSameUser(v, p.id))),
     asLocation: true})

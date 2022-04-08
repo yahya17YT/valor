@@ -134,7 +134,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 ${wish()}, ${name}
 
 *⇓ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛᴇᴅ ʙᴇʟᴏᴡ ⇓*`, text.trim(), `${timeimg()}`, [
-      [`ʙᴏᴛ ɪɴғᴏ`, `${usedPrefix}info`],
+      [`ʙᴏᴛ ɪɴғᴏ`, `${usedPrefix}botinfo`],
       [`ᴩʀᴏғɪʟᴇ`, `${usedPrefix}profile`]
     ], m, {asLocation: true})
   } catch (e) {
@@ -142,9 +142,9 @@ ${wish()}, ${name}
     throw e
   }
 }
-handler.help = ['menu | help | commands | valor']
+handler.help = ['menu']
 handler.tags = ['main']
-handler.command = /^(menu|help|valor|commands)$/i
+handler.command = /^(menu|help|valor|command|commands)$/i
 
 handler.exp = 3
 
@@ -199,7 +199,7 @@ function timeimg() {
   if (time >= 12) {
     imgloc = ('./media/noon.jpg')
   }
-  if (time >= 13) {
+  if (time >= 14) {
     imgloc = ('./media/afternoon.jpg')
   }
   if (time >= 16) {

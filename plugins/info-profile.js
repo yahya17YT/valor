@@ -1,8 +1,5 @@
 import { xpRange } from '../lib/levelling.js'
-import moment from 'moment-timezone'
 let handler = async (m, { conn, usedPrefix, text, command }) => {
-    let date = moment.tz('Asia/Kolkata').format("dddd, Do MMMM, YYYY")
-    let time = moment.tz('Asia/Kolkata').format('HH:mm:ss')
     let name = await conn.getName(m.sender)
     let { exp, limit, level, role } = global.db.data.users[m.sender]
     let { min, xp, max } = xpRange(level, global.multiplier)
@@ -22,17 +19,18 @@ let handler = async (m, { conn, usedPrefix, text, command }) => {
 🎖️ ʟᴇᴠᴇʟ: ${level} ﹙${exp - min} / ${xp}﹚
 ☕ ᴛᴏᴛᴀʟ xᴩ: ${exp}
 〽️ ᴩʀᴇғɪx: *${usedPrefix}*
-
-📅 ᴅᴀᴛᴇ: ${date}
-⌚ ᴛɪᴍᴇ: ${time}
+––––––––––––––––––––––––
+💁🏻‍♂ ᴛɪᴩ :
+⮕ ᴛᴏ ʟᴇᴠᴇʟ ᴜᴩ:
+${usedPrefix}levelup
 `.trim(), './media/profile.jpg', [
 [`ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ`, `${usedPrefix}leaderboard`],
 [`ɪɴᴠᴇɴᴛᴏʀʏ`, `${usedPrefix}inventory`]
 ], m, {asLocation: true})
 }
 
-handler.help = ['profile']
+handler.help = ['profile | pf']
 handler.tags = ['info']
-handler.command = /^(profile)$/i
+handler.command = /^(profile|pf)$/i
 
 export default handler

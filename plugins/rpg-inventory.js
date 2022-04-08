@@ -118,11 +118,11 @@ ${crates}` : ''}${pets ? `
 🔖 ᴩᴇᴛs :
 ${pets}` : ''}${cooldowns ? `
 
-♻️ ᴄᴏʟʟᴇᴄᴛ :
+♻️ ᴄᴏʟʟᴇᴄᴛ ʀᴇᴡᴀʀᴅs:
 ${cooldowns}` : ''}
 `.trim()
 conn.sendButton(m.chat, '*–––––『 INVENTORY 』–––––*', caption, './media/inventory.jpg', [
-[`ᴏᴩᴇɴ ᴄʀᴀᴛᴇs`, `${usedPrefix}open`],
+[`ᴛʀᴀɴsғᴇʀ`, `${usedPrefix}transfer`],
 [`ᴀᴅᴠᴇɴᴛᴜʀᴇ`, `${usedPrefix}adventure`]
 ], m, {asLocation: true})
 }

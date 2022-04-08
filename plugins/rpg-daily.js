@@ -10,7 +10,9 @@ let handler = async (m, {usedPrefix}) => {
 '*–––––『 COOLDOWN 』–––––*',
 `ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴄʟᴀɪᴍᴇᴅ *ᴛᴏᴅᴀʏ ʀᴇᴡᴀʀᴅs*, ᴩʟᴇᴀsᴇ ᴡᴀɪᴛ ᴛɪʟʟ ᴄᴏᴏʟᴅᴏᴡɴ ғɪɴɪsʜ.
 
-⏱️ ${((user.lastclaim + cooldown) - new Date()).toTimeString()}`.trim(), './media/cooldown.jpg', [[`ᴍᴇɴᴜ`, `${usedPrefix}valor`]], m, {asLocation: true})
+⏱️ ${((user.lastclaim + cooldown) - new Date()).toTimeString()}`.trim(), './media/cooldown.jpg', [
+[`ɪɴᴠᴇɴᴛᴏʀʏ`, `${usedPrefix}inventory`]
+], m, {asLocation: true})
   let text = ''
   for (let reward of Object.keys(rewards)) {
     if (!(reward in user)) continue

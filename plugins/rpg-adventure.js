@@ -4,15 +4,18 @@ let handler = async (m, { usedPrefix }) => {
     let timers = (cooldown - (new Date - user.lastadventure))
     if (user.health < 80) return conn.sendButton(m.chat,
 '*–––––『 LOW HEALTH 』–––––*',
-`ʀᴇǫᴜɪʀᴇs ᴀᴛ ʟᴇᴀsᴛ 80 ❤️ ʜᴇᴀʟᴛʜ ғᴏʀ ᴛʜᴇ ᴀᴅᴠᴇɴᴛᴜʀᴇ﹗
-ᴩʟᴇᴀsᴇ ❤️ ʜᴇᴀʟ ғɪʀsᴛ.`.trim(), './media/lowhealth.jpg', [
-[`ʜᴇᴀʟ`, `${usedPrefix}heal`]
+`ʏᴏᴜʀ ʜᴇᴀʟᴛʜ ɪs ʙᴇʟᴏᴡ 80﹗
+ᴩʟᴇᴀsᴇ ʜᴇᴀʟ ❤ ғɪʀsᴛ ᴛᴏ ᴀᴅᴠᴇɴᴛᴜʀᴇ ᴀɢᴀɪɴ.`.trim(), './media/lowhealth.jpg', [
+[`ʜᴇᴀʟ ❤`, `${usedPrefix}heal`]
 ], m, {asLocation: true})
     if (new Date - user.lastadventure <= cooldown) return conn.sendButton(m.chat, 
 '*–––––『 COOLDOWN 』–––––*',
 `ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ *ᴀᴅᴠᴇɴᴛᴜʀᴇ*, ᴩʟᴇᴀsᴇ ᴡᴀɪᴛ ᴛɪʟʟ ᴄᴏᴏʟᴅᴏᴡɴ ғɪɴɪsʜ.
 
-⏱️ ${timers.toTimeString()}`.trim(), './media/cooldown.jpg', [[`ᴍᴇɴᴜ`, `${usedPrefix}valor`]], m, {asLocation: true})
+⏱️ ${timers.toTimeString()}`.trim(), './media/cooldown.jpg', [
+[`ɪɴᴠᴇɴᴛᴏʀʏ`, `${usedPrefix}inventory`],
+[`ᴅᴀɪʟʏ`, `${usedPrefix}daily`]
+], m, {asLocation: true})
     const rewards = reward(user)
     let text = 'You\'ve been adventure and decrease'
     for (const lost in rewards.lost) if (user[lost]) {
@@ -34,9 +37,9 @@ let handler = async (m, { usedPrefix }) => {
 ], m, {asLocation: true})
     user.lastadventure = new Date * 1
 }
-handler.help = ['adventure', 'petualang', 'berpetualang', 'mulung']
+handler.help = ['adventure']
 handler.tags = ['rpg']
-handler.command = /^(adventure|(ber)?petualang(ang)?|mulung)$/i
+handler.command = /^(adventure|adv)$/i
 
 handler.cooldown = cooldown
 handler.disabled = false

@@ -84,23 +84,29 @@ ${usedPrefix}${command} potion 10
     if (command.toLowerCase() == 'buy') {
         let paymentMethod = Object.keys(listItems[item]).find(v => v in user)
         if (user[paymentMethod] < listItems[item][paymentMethod] * total) return conn.sendButton(m.chat,
-`*––『 INSUFFICIENT CREDIT 』––*`, 
-`ʏᴏᴜ ɴᴇᴇᴅ ᴇxᴛʀᴀ *${(listItems[item][paymentMethod] * total) - user[paymentMethod]} ${global.rpg.emoticon(paymentMethod)}${paymentMethod}* ᴛᴏ *ʙᴜʏ ${total} ${global.rpg.emoticon(item)}${item}*.
-ʏᴏᴜ'ᴠᴇ *${user[paymentMethod]} ${global.rpg.emoticon(paymentMethod)}${paymentMethod}* ɪɴ ʙᴀɢ.
+`*–『 INSUFFICIENT CREDIT 』–*`, 
+`ʏᴏᴜ ɴᴇᴇᴅ ᴇxᴛʀᴀ *${(listItems[item][paymentMethod] * total) - user[paymentMethod]}* ${global.rpg.emoticon(paymentMethod)}${paymentMethod} ᴛᴏ ʙᴜʏ *${total}* ${global.rpg.emoticon(item)}${item}.
+ʏᴏᴜ'ᴠᴇ *${user[paymentMethod]}* ${global.rpg.emoticon(paymentMethod)}${paymentMethod} ɪɴ ʙᴀɢ.
 –––––––––––––––––––––––––
 💁🏻‍♂ ᴛɪᴩ :
-'ᴏᴩᴇɴ ᴄʀᴀᴛᴇs' | 'sᴇʟʟ ɪᴛᴇᴍs' | 'ᴀsᴋ ᴛᴏ ᴀʟʟ'
+ᴏᴩᴇɴ ᴄʀᴀᴛᴇs & ᴄᴏʟʟᴇᴄᴛ ʀᴇᴡᴀʀᴅs.
 ⮕ ᴛᴏ ᴏᴩᴇɴ ᴄʀᴀᴛᴇs:
 .open crate
+⮕ ᴛᴏ ᴄᴏʟʟᴇᴄᴛ ʀᴇᴡᴀʀᴅs:
+.adventure | .daily | .monthly
 `.trim(), './media/lowcredit.jpg', [
-[`sᴇʟʟ🗑ᴛʀᴀsʜ`, `${usedPrefix}sell trash ${user.trash}`],
-[`ᴀsᴋ ᴛᴏ ᴀʟʟ`, `${usedPrefix}tagall sᴏᴍᴇʙᴏᴅʏ ᴩʟᴇᴀsᴇ sᴇɴᴅ *${(listItems[item][paymentMethod] * total) - user[paymentMethod]} ${global.rpg.emoticon(paymentMethod)}${paymentMethod}* ᴛᴏ ᴍᴇ.
-⮕ ᴛᴏ ᴛʀᴀɴsғᴇʀ ᴩᴏᴛɪᴏɴ:
-${usedPrefix}transfer money ${(listItems[item][paymentMethod] * total) - user[paymentMethod]} @${conn.getName(m.sender)}`]
+[`ᴀsᴋ ᴛᴏ ᴀʟʟ`, `${usedPrefix}tagall sᴏᴍᴇʙᴏᴅʏ ᴩʟᴇᴀsᴇ sᴇɴᴅ *${(listItems[item][paymentMethod] * total) - user[paymentMethod]}* ${global.rpg.emoticon(paymentMethod)}${paymentMethod} ᴛᴏ ᴍᴇ.
+⮕ ᴛᴏ ᴛʀᴀɴsғᴇʀ ${paymentMethod}:
+${usedPrefix}transfer ${paymentMethod} ${(listItems[item][paymentMethod] * total) - user[paymentMethod]} @${conn.getName(m.sender)}`]
 ], m, {asLocation: true})
         user[paymentMethod] -= listItems[item][paymentMethod] * total
         user[item] += total
-        return m.reply(`You bought *${total}* ${global.rpg.emoticon(item)}${item}`)
+        return conn.sendButton(m.chat,
+`*––––––『 BOUGHT 』––––––*`,
+`ʏᴏᴜ *ʙᴏᴜɢʜᴛ ${total} ${global.rpg.emoticon(item)}${item}*.
+`.trim(), `./media/bought.jpg`, [
+[`ɪɴᴠᴇɴᴛᴏʀʏ`, `${usedPrefix}inventory`]
+], m, {asLocation: true})
     } else {
         if (user[item] < total) return m.reply(`You don't have enough *${global.rpg.emoticon(item)}${item}* to sell, you only have ${user[item]} items`)
         user[item] -= total
@@ -108,11 +114,8 @@ ${usedPrefix}transfer money ${(listItems[item][paymentMethod] * total) - user[pa
         return conn.sendButton(m.chat,
 `*–––––––『 SOLD 』–––––––*`,
 `ʏᴏᴜ *sᴏʟᴅ ${total} ${global.rpg.emoticon(item)}${item}*.
-–––––––––––––––––––––––––
-🔖 sᴇʟʟ ɪᴛᴇᴍs :
-⮕ 1 🥤potion = 250 💰money
-⮕ 1 🗑trash = 4 💰money`.trim(), `./media/sold.jpg`, [
-[`ᴍᴇɴᴜ`, `${usedPrefix}menu`]
+`.trim(), `./media/sold.jpg`, [
+[`ɪɴᴠᴇɴᴛᴏʀʏ`, `${usedPrefix}inventory`]
 ], m, {asLocation: true})
     }
 }

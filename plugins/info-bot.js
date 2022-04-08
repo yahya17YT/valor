@@ -14,6 +14,8 @@ let format = sizeFormatter({
   render: (literal, symbol) => `${literal} ${symbol}B`,
 })
 let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
+    let date = moment.tz('Asia/Kolkata').format("dddd, Do MMMM, YYYY")
+    let time = moment.tz('Asia/Kolkata').format('HH:mm:ss')
     let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
     let _uptime = process.uptime() * 1000
     let uptime = clockString(_uptime)
@@ -58,6 +60,9 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⏳ ᴜᴩᴛɪᴍᴇ: ${uptime}
 📈 ᴅᴀᴛᴀʙᴀsᴇ: ${totalreg}
 
+📅 ᴅᴀᴛᴇ: ${date}
+⌚ ᴛɪᴍᴇ: ${time} ﹙ɢᴍᴛ +5:30﹚
+
 💻 sᴇʀᴠᴇʀ ɪɴғᴏ :
 ⮕ ᴩɪɴɢ: ${speed} ᴍs
 ⮕ ʀᴀᴍ: ${format(totalmem() - freemem())} / ${format(totalmem())}
@@ -68,16 +73,14 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⮕ ${groupsIn.length - groupsIn.length} - Groups Left
 ⮕ ${chats.length - groupsIn.length} - Personal Chats
 ⮕ ${chats.length} - Total Chats
-
-📊 ɴᴏᴅᴇᴊs ᴍᴇᴍᴏʀʏ ᴜsᴀɢᴇ :
-${'' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + ''}`, './media/botinfo.jpg', 'https://dineshvalor.github.io/valor', 'ʙᴏᴛ sᴄʀɪᴩᴛ', null, null, [
+`.trim(), './media/botinfo.jpg', 'https://dineshvalor.github.io/valor', 'ʙᴏᴛ sᴄʀɪᴩᴛ', null, null, [
 [`ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
 [`ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: true})
 }
-handler.help = ['info | botinfo']
+handler.help = ['botinfo']
 handler.tags = ['info']
-handler.command = /^(info|botinfo)$/i
+handler.command = /^(botinfo|bot|info|bi)$/i
 
 export default handler
 
