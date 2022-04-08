@@ -1,7 +1,7 @@
 {
     "name": "Valor-Bot",
     "version": "2.22.8.7",
-    "description": "Multi-device beta",
+    "description": "Baileys WebSocket API",
     "main": "index.js",
     "type": "module",
     "directories": {
