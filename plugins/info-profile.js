@@ -29,8 +29,8 @@ ${usedPrefix}levelup
 ], m, {asLocation: true})
 }
 
-handler.help = ['profile | pf']
+handler.help = ['profile']
 handler.tags = ['info']
-handler.command = /^(profile|pf)$/i
+handler.command = /^(profile|pf|userprofile|up)$/i
 
 export default handler
