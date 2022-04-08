@@ -69,7 +69,7 @@ $ pkg install imagemagick -y
 $ git clone https://github.com/DineshValor/valor
 $ cd valor
 $ yarn
-$ node .
+$ bash start
 ```
 3. Scan QR code via WhatsApp [skip if you already copied `session.data.json` file into repository]
 4. Hurray! Bot successfully installed and ready to use. Type `.menu` or `.help` in whatsapp chat to access bot menu
