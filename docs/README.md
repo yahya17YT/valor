@@ -38,12 +38,23 @@ _Some highlight features_:
 - [Frequently Asked Questions](https://dineshvalor.github.io/valor/faq)
 - [Troubleshoot](https://dineshvalor.github.io/puppeteer/troubleshooting)
 
-## Test & Report
+### Invite/Add bot in your group?
+1. Join [Valor Bot Invite](https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI) group.
 
-Test and Report Bug on official Valor Bot repository under Issue section.
+2. Type and send as shown below message in “Valor Bot Invite” group. <br>
+#join group-link
 
-[![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-darkgreen?logo=whatsapp)](https://wa.me/919971107409)
-[![Bug Report](https://img.shields.io/badge/GitHub-Bug_Report-darkgreen?logo=github)](https://github.com/DineshValor/valor/issues)
+- Example <br>
+#join https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI
+
+(replace link with your group link)
+
+### Test & Report Bug/Error/Issue or Feature Request?
+
+Test and Report Bug/Error/Issue on official Valor Bot repository under Issue section.
+
+[![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-darkgreen?logo=whatsapp)](https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI)
+[![Bug/Error/Issue Report](https://img.shields.io/badge/GitHub-Report-darkgreen?logo=github)](https://github.com/DineshValor/valor/issues)
 
 ## License
 
