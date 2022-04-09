@@ -1,4 +1,4 @@
-## Frequently Asked Questions
+# Frequently Asked Questions
 
 ### Q: How to Customise Message Display?
 
