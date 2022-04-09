@@ -51,7 +51,7 @@ _Some highlight features_:
 
 ### Test & Report Bug/Error/Issue or Feature Request?
 
-Test and Report Bug/Error/Issue on official Valor Bot repository under Issue section.
+Test and Report Bug/Error/Issue or Feature Request on official Valor Bot repository under Issue section.
 
 [![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-darkgreen?logo=whatsapp)](https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI)
 [![Bug/Error/Issue Report](https://img.shields.io/badge/GitHub-Report-darkgreen?logo=github)](https://github.com/DineshValor/valor/issues)
