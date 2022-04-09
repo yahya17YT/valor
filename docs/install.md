@@ -1,8 +1,8 @@
-# Installation
+## Installation
 
 If you have previously scanned QR code and already have `session.json` or `session.data.json` file, it is strongly recommended to rename 'session.json' to 'session.data.json' and copy it into Valor Bot folder/repository.
 
-## Before you start: **_(necessary)_**
+### Before you start: **_(necessary)_**
 
 - Edit owner number `'919971107409'` and replace with own number in `config.js` file
 ```
