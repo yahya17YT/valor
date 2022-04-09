@@ -38,7 +38,7 @@ _Some highlight features_:
 - [Frequently Asked Questions](https://dineshvalor.github.io/valor/faq)
 - [Troubleshoot](https://dineshvalor.github.io/puppeteer/troubleshooting)
 
-### Invite/Add bot in your group?
+### Invite/Add Bot in your Group?
 1. Join [Valor Bot Invite](https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI) group.
 
 2. Type and send as shown below message in “Valor Bot Invite” group. <br>
@@ -47,7 +47,7 @@ _Some highlight features_:
 - Example <br>
 #join https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI
 
-(replace link with your group link)
+(replace `‘https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI’` with your group link)
 
 ### Test & Report Bug/Error/Issue or Feature Request?
 
