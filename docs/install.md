@@ -1,8 +1,8 @@
-## Installation
+# Installation
 
 If you have previously scanned QR code and already have `session.json` or `session.data.json` file, it is strongly recommended to rename 'session.json' to 'session.data.json' and copy it into Valor Bot folder/repository.
 
-### Before you start: **_(necessary)_**
+## Before you start: **_(necessary)_**
 
 - Edit owner number `'919971107409'` and replace with own number in `config.js` file
 ```
@@ -22,7 +22,7 @@ global.APIKeys = { // APIKey Here
 - Termux (Android 7 or higher)
 - CMD (Windows 7 or higher)
 
-### **Heroku (Server)**
+## **Heroku (Server)**
 
 This allows for easier installation and Heroku is a server based, that's mean bot keep active for 24×7 without your device up for all time.
 
@@ -49,7 +49,7 @@ This allows for easier installation and Heroku is a server based, that's mean bo
 11. Hurray! Bot successfully installed and ready to use. Type `.menu` or `.help` in whatsapp chat to access bot menu
 > ⚠️ If any error comes, feel free raise an [Issue](https://github.com/DineshValor/valor/issues)
 
-### **Termux (Android 7 or higher)**
+## **Termux (Android 7 or higher)**
 
 Termux is a local hardware based terminal, that's mean it use device hardware to run bot and for that requires Termux app always active with good internet connection
 
@@ -75,7 +75,7 @@ $ bash start
 4. Hurray! Bot successfully installed and ready to use. Type `.menu` or `.help` in whatsapp chat to access bot menu
 >⚠️ If any error comes, feel free raise an [Issue](https://github.com/DineshValor/valor/issues)
 
-### **CMD (Windows 7 or higher)**
+## **CMD (Windows 7 or higher)**
 
 CMD is a windows based local command prompt/terminal, which runs bot locally inside pc using it's hardware
 
