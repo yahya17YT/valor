@@ -7,7 +7,7 @@
 #### This is not an officially supported WhatsApp product
 
 ## Introduction
-Valor Bot is a suite of open source software for WhatsApp Application based on whatsapp web (Multi-device beta).
+Valor Bot is a suite of open source software for WhatsApp Application based on Baileys WebSocket API.
 > WhatsApp Supported Version: 2.22.8.7
 
 _Some highlight features_:
