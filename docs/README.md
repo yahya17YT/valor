@@ -8,7 +8,7 @@
 
 ## Introduction
 Valor Bot is a suite of open source software for WhatsApp Application based on whatsapp web (Multi-device beta).
-> WhatsApp Supported Version: 2.22.8.7 or below
+> WhatsApp Supported Version: 2.22.8.7
 
 _Some highlight features_:
 
@@ -42,12 +42,11 @@ _Some highlight features_:
 1. Join [Valor Bot Invite](https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI) group.
 
 2. Type and send as shown below message in “Valor Bot Invite” group. <br>
-#join group-link
+#join <group_link>
 
 - Example <br>
 #join https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI
-
-(replace `‘https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI’` with your group link)
+> (replace `‘https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI’` with your group link)
 
 ### Test & Report Bug/Error/Issue or Feature Request?
 
