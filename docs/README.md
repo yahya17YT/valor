@@ -48,7 +48,7 @@ _Some highlight features_:
 #join https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI
 > (replace `‘https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI’` with your group link)
 
-> Note: **Group No Longer Exist.**
+> Note: **Group Link No Longer Under Bot Creator.**
 
 ### Test & Report Bug/Error/Issue or Feature Request?
 
