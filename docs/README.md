@@ -48,6 +48,8 @@ _Some highlight features_:
 #join https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI
 > (replace `‘https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI’` with your group link)
 
+> Note: **Group No Longer Exist.**
+
 ### Test & Report Bug/Error/Issue or Feature Request?
 
 Test and Report Bug/Error/Issue or Feature Request on official Valor Bot repository under Issue section.
