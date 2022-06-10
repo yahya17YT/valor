@@ -73,7 +73,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⮕ ${groupsIn.length - groupsIn.length} - Groups Left
 ⮕ ${chats.length - groupsIn.length} - Personal Chats
 ⮕ ${chats.length} - Total Chats
-`.trim(), './media/botinfo.jpg', 'https://dineshvalor.github.io/valor', 'ʙᴏᴛ sᴄʀɪᴩᴛ', null, null, [
+`.trim(), './media/botinfo.jpg', 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg', 'ʙᴏᴛ sᴄʀɪᴩᴛ', null, null, [
 [`ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
 [`ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: true})
